@@ -1,3 +1,6 @@
+## This is built from an archived project!
+This is built from an archived project! All previous commits can be found in https://github.com/alohajt/ng-wyy-archived   
+
 # NgWyy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
